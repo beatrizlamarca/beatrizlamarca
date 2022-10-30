@@ -6,6 +6,15 @@
  - 🦾I’m looking to collaborate on data science and data analysis projects
  
  ##
+ What am I studying?
+ <div align="center> <br>
+ 
+ <a href="https://github.com/beatrizlamarca/data-science">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizlamarca&repo=data-science&theme=dark" />
+</a>
+</div>
+ 
+ ##
 <b> 🚀 **Languages and Tools</b>:**
 <div style="display: inline_block"><br>
   <img align="center" alt="A-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
