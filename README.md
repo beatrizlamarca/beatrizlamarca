@@ -9,7 +9,7 @@
  What am I studying?
  <div align="center> <br>
  
- <a href="https://github.com/beatrizlamarca/data-science">
+ <a href="https://github.com/beatrizlamarca/data-science"> 
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=beatrizlamarca&repo=data-science&theme=dark" />
 </a>
 </div>
